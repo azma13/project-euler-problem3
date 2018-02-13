@@ -1,0 +1,22 @@
+{
+  "name": "project-euler-problem3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "euler3.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azmash/project-euler-problem3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azmash/project-euler-problem3/issues"
+  },
+  "homepage": "https://github.com/azmash/project-euler-problem3#readme",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}
