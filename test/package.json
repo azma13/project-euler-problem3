@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/azmash/project-euler-problem3#readme",
   "devDependencies": {
-    "jest": "^22.2.2"
+    "jest": "^22.2.2",
+    "jest-each": "^0.3.1"
   }
 }
